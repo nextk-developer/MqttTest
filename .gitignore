@@ -1,0 +1,6 @@
+# Compiled object and bin folders
+obj
+bin
+
+# Visual Studio caches
+.vs
